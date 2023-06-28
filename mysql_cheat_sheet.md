@@ -1,7 +1,10 @@
+
+
 # MySQL Cheat Sheet
 
 > Help with SQL commands to interact with a MySQL database
-
+Video donde explica Express y MYSQL 
+https://www.youtube.com/watch?v=EN6Dx22cPRI&t=2s
 ## MySQL Locations
 * Mac             */usr/local/mysql/bin*
 * Windows         */Program Files/MySQL/MySQL _version_/bin*
